@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://discord.gg/SMP6rMcjxg)**
+- 👨‍💻 If you need help go in the **[DISCORD](https://discord.gg/SMP6rMcjxg)**
 
 - 📫 How to reach me **naixcodinghelp@gmail.com**
 
