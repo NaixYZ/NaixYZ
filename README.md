@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Hacking, Python, Youtube**
 
-- 📫 How to reach me **naixcodinghelp@gmail.com** or Add naix#6969 on **[Discord](https://discord.gg/QgTJy4TcWd)**
+- 📫 How to reach me **naixcodinghelp@gmail.com** or Add naix#6969 on **[Discord]()**
 
 ##  📝 Connect with me:
 <p align="left">
