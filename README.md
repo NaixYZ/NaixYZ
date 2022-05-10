@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,C#**
 
-- 📝 I regularly write Updates on my **[Discord](https://discord.gg/QgTJy4TcWd)**
+- 📝 I regularly write Updates on my **[Discord]()**
 
 - 💬 Ask me about **Hacking, Python, Youtube**
 
