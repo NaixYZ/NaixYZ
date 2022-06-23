@@ -3,7 +3,7 @@
 
 <h3 align="center">Ethical Hacker | Python Developer | Small Content Creator</h3>
 
-- 🔭 I’m currently working on **Keylogger for discord**
+- 🔭 I’m currently working on *HDWID SPOOFER **
 
 - 🌱 I’m currently learning **C,C#**
 
