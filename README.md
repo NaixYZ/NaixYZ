@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naix</h1>
 
 
-<h3 align="center">Ethical Hacker | Python Developer | Small Content Creator</h3>
+<h3 align="center">Ethical Hacker |  Developer </h3>
 
 - 🔭 I’m currently working on *HDWID SPOOFER **
 
