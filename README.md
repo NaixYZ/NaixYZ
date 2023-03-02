@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naix</h1>
 
 
-<h3 align="center">Ethical Hacker |  Developer </h3>
+<h3 align="center"  Developer </h3>
 
 - 🔭 I’m currently working on *HDWID SPOOFER **
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Hacking, Python, Youtube**
 
-- 📫 How to reach me **naixcodinghelp@gmail.com** or Add naix#6969 on **[Discord]()**
+- 📫 How to reach me **naixcodinghelp@gmail.com** or Add Naix.#9393 on **[Discord]()**
 
 ##  📝 Connect with me:
 <p align="left">
