@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on *HDWID SPOOFER **
 
-- 🌱 I’m currently learning **C,C#**
 
 - 📝 I regularly write Updates on my **[Discord]()**
 
-- 💬 Ask me about **Hacking, Python, Youtube**
 
-- 📫 How to reach me **naixcodinghelp@gmail.com** or Add Naix.#9393 on **[Discord]()**
+- 📫 How to reach me naixx1337 on **[Discord]()**
 
 ##  📝 Connect with me:
 <p align="left">
