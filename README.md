@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on *HDWID SPOOFER **
 
 
-- 📝 I regularly write Updates on my **[Discord]()**
+- 📝 I regularly write Updates on my  **[Discord]()**
 
 
 - 📫 How to reach me naixx1337 on **[Discord]()**
